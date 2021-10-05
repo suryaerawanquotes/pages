@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Wonderful Motivation Quotes",
+    "description": "",
+    "home_page_url": "https://quotes.suryaerawan.com",
+    "feed_url": "https://quotes.suryaerawan.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Surya"
+    },
+    "items": [
+        {
+            "id": "https://quotes.suryaerawan.com/zig-ziglar.html",
+            "url": "https://quotes.suryaerawan.com/zig-ziglar.html",
+            "title": "Zig Ziglar",
+            "summary": "<p>People often say that motivation doesn't last. Well, neither does bathing -- that's why we recommend it daily - Zig Ziglar -</p>\n",
+            "content_html": "<p>People often say that motivation doesn't last. Well, neither does bathing -- that's why we recommend it daily - Zig Ziglar -</p>\n\n<p> </p>\n<p> </p>\n<p>#motivasi #bijaksana #bijaksini #bijaksanasini #katakatamotivasi #berpikirpositif</p>",
+            "image": "https://quotes.suryaerawan.com/media/posts/1/Zig-Ziglar-Motivation-2021-10-05.png",
+            "author": {
+                "name": "Surya"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-05T16:45:00+08:00",
+            "date_modified": "2021-10-05T16:48:20+08:00"
+        },
+        {
+            "id": "https://quotes.suryaerawan.com/steve-jobs.html",
+            "url": "https://quotes.suryaerawan.com/steve-jobs.html",
+            "title": "Steve Jobs",
+            "summary": "<p>Your time is limited, so don't waste it living someone else's life - Steve Jobs</p>\n",
+            "content_html": "<p>Your time is limited, so don't waste it living someone else's life - Steve Jobs</p>\n\n<p>- #motivasi #bijaksana #bijaksini #bijaksanasini #katakatamotivasi #berpikirpositif</p>",
+            "image": "https://quotes.suryaerawan.com/media/posts/2/Steve-Jobs-Motivation-2021-10-05.png",
+            "author": {
+                "name": "Surya"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-05T16:00:00+08:00",
+            "date_modified": "2021-10-05T16:58:38+08:00"
+        }
+    ]
+}
