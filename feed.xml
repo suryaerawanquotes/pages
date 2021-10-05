@@ -3,12 +3,37 @@
     <title>Wonderful Motivation Quotes</title>
     <link href="https://quotes.suryaerawan.com/feed.xml" rel="self" />
     <link href="https://quotes.suryaerawan.com" />
-    <updated>2021-10-05T16:58:38+08:00</updated>
+    <updated>2021-10-05T17:07:00+08:00</updated>
     <author>
         <name>Surya</name>
     </author>
     <id>https://quotes.suryaerawan.com</id>
 
+    <entry>
+        <title>Steve Jobs</title>
+        <author>
+            <name>Surya</name>
+        </author>
+        <link href="https://quotes.suryaerawan.com/steve-jobs.html"/>
+        <id>https://quotes.suryaerawan.com/steve-jobs.html</id>
+
+        <updated>2021-10-05T17:07:00+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://quotes.suryaerawan.com/media/posts/2/Steve-Jobs-Motivation-2021-10-05.png" alt="" />
+                    <p>Your time is limited, so don't waste it living someone else's life - Steve Jobs</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://quotes.suryaerawan.com/media/posts/2/Steve-Jobs-Motivation-2021-10-05.png" alt="" />
+                <p>Your time is limited, so don't waste it living someone else's life - Steve Jobs</p>
+
+<p>- #motivasi #bijaksana #bijaksini #bijaksanasini #katakatamotivasi #berpikirpositif</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Zig Ziglar</title>
         <author>
@@ -33,31 +58,6 @@
 <p> </p>
 <p> </p>
 <p>#motivasi #bijaksana #bijaksini #bijaksanasini #katakatamotivasi #berpikirpositif</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Steve Jobs</title>
-        <author>
-            <name>Surya</name>
-        </author>
-        <link href="https://quotes.suryaerawan.com/steve-jobs.html"/>
-        <id>https://quotes.suryaerawan.com/steve-jobs.html</id>
-
-        <updated>2021-10-05T16:58:38+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://quotes.suryaerawan.com/media/posts/2/Steve-Jobs-Motivation-2021-10-05.png" alt="" />
-                    <p>Your time is limited, so don't waste it living someone else's life - Steve Jobs</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://quotes.suryaerawan.com/media/posts/2/Steve-Jobs-Motivation-2021-10-05.png" alt="" />
-                <p>Your time is limited, so don't waste it living someone else's life - Steve Jobs</p>
-
-<p>- #motivasi #bijaksana #bijaksini #bijaksanasini #katakatamotivasi #berpikirpositif</p>
             ]]>
         </content>
     </entry>
